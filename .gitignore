@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# etc
+nob
+main
+nob.old
+.DS_STORE
